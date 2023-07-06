@@ -1,0 +1,8 @@
+2c2
+<  * Django Autocomplete Light - Select2 function
+---
+>  * Django Autocomplete Light APIS Override - Select2 function
+68c68
+<                             value.id = value.text;
+---
+>                             value.id = value.id;
