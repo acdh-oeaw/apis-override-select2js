@@ -6,8 +6,7 @@ authors = ["Birger Schacht <birger.schacht@oeaw.ac.at>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = ">=3.11, <3.12"
-django = "^4"
+django = "*"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
