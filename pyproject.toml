@@ -4,6 +4,7 @@ version = "0.2.0"
 description = "Override select2js files in APIS Django projects"
 authors = ["Birger Schacht <birger.schacht@oeaw.ac.at>"]
 license = "MIT"
+readme = "README.md"
 
 [tool.poetry.dependencies]
 django = "*"
